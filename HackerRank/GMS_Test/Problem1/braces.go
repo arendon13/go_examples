@@ -11,7 +11,11 @@ import (
 
 // Complete the braces function below.
 func braces(values []string) []string {
-	return nil
+	vals := []string{
+		"yes",
+		"no",
+	}
+	return vals
 }
 
 func main() {
