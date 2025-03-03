@@ -2,4 +2,6 @@
 .vscode/
 /.idea/workspace.xml
 .idea/
-bin/
+
+*.zip
+bootstrap
